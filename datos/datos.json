@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mouse Inalambrico",
+        "categoria": "Perifericos",
+        "precio": 259.00,
+        "descripcion": "Mouse inalambrico con sensor optico de alta precision y bateria de larga duracion.",
+        "stock": 25
+    },
+    {
+        "id": 2,
+        "nombre": "Teclado Mecanico",
+        "categoria": "Perifericos",
+        "precio": 1590.00,
+        "descripcion": "Teclado mecanico con retroiluminacion RGB y switches de alta durabilidad.",
+        "stock": 12
+    }
+]
